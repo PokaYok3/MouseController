@@ -12,7 +12,7 @@ This project is a mouse controller that allows you to control your computer's mo
 ## Installation 
 
 
-1. Clone the repository: `git clone https://github.com/your-username/mouse-controller.git`
+1. Clone the repository: `git clone https://github.com/PokaYok3/MouseController.git`
 2. Install the required dependencies: `pip install -r requirements.txt`, IMPORTANT: Create a virtual env with Python 3.7.9. In other versions have been not tested.
 3. Run the application: `python main.py` in folder Hand controller\Scripts
 
