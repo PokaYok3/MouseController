@@ -4,7 +4,7 @@ This project is a mouse controller that allows you to control your computer's mo
 
 ## Features
 
-- Hand gesture recognition: The system can recognize various hand gestures such as moving the cursor, left-click. (Other ones can be implemented by user at main.py)
+- Hand recognition: The system can recognize  hand such as moving the cursor, left-click. (Other ones can be implemented by user at main.py)
 - Real-time tracking: The hand tracking is performed in real-time, providing a smooth and responsive user experience.
 - Customizable gestures: You can define your own gestures and map them to specific mouse actions.
 - Easy setup: The project comes with detailed instructions on how to set up the required dependencies and get started quickly.
